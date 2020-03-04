@@ -1,11 +1,11 @@
 ---
-title: "AME 341a"
+title: "Teaching experience 2"
 collection: teaching
-type: "Undergraduate Lab"
+type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University of Southern California, Department Aerospace and Mechanical Engineering"
-date: 2019 Fall
-location: "Los Angeles, CA"
+venue: "University 1, Department"
+date: 2015-01-01
+location: "City, Country"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
