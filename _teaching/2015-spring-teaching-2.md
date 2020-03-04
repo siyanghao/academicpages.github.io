@@ -1,5 +1,5 @@
 ---
-title: "AME 341a Mechoptronic Labatory"
+title: "AME 341a"
 collection: teaching
 type: "Undergraduate Lab"
 permalink: /teaching/2015-spring-teaching-1
