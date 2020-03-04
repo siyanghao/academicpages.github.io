@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Currently, Siyang Hao is working as a research associate at Brown University. Siyang received his Master's degree from the University of Southern California in Aerospace and Mechanical Engineering in 2019. His research interests are in Fluid Mechanics. Before joining USC, Siyang attended the Beijing University of Aeronautics and Astronautics, where he earned B.A. and M.Eng. degrees in Engineering in 2017.
+Currently, Siyang Hao is working as a research associate at Brown University. His research interests are in Fluid Mechanics covering fluid experiments, turbulence and flight mechanics. Siyang received his Master's degree from the University of Southern California in Aerospace and Mechanical Engineering in 2019. Before joining USC, Siyang attended the Beijing University of Aeronautics and Astronautics, where he earned B.A. and M.Eng. degrees in Aerospace Engineering in 2017.
 
-A data-driven personal website
+An Active Researcher 
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
