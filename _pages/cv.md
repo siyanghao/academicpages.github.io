@@ -68,7 +68,6 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-*	S. Hao, P. Tang, Y. Feng. Propeller Pitch Controller for Super Light Tilt Rotor Aircraft [P]. Under Review
 *	S. Hao, F. Yang, P Tang, Y. Feng, H. Li. Omnidirectional Gimbaled Mechanism based on Ring Gear [P]. CN107117288A. 9.2018 
 *	S. Hao, F. Yang, X. Jiang. Distributed Vectored Propulsion Mechanism [P]. CN205034337U. 7.2016   
 *	S. Hao, F. Yang, X. Jiang, T. Li. Distributed Vectored Propulsion System[P]. CN105151292B. 2.2016   
