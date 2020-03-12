@@ -1,5 +1,4 @@
 ---
-Current Projects
 title: "Compliant Wing Ornithopter"
 excerpt: "Super-Compliant Wing Ornithopter (2018.9-Now) <br/><img src='/images/USC Raven.png'>"
 collection: portfolio
