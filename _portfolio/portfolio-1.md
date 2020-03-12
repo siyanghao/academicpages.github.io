@@ -1,6 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+Current Projects
+title: "Compliant Wing Ornithopter"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/USC Raven.png'>"
 collection: portfolio
 ---
 
