@@ -1,7 +1,7 @@
 ---
 Current Projects
 title: "Compliant Wing Ornithopter"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/USC Raven.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/300*500.png'>"
 collection: portfolio
 ---
 
