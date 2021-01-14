@@ -1,7 +1,7 @@
 ---
 title: "3D Printing of Flexible Liquid Sensor based on Swelling Kinetics of Hydrogel with Carbon Nanotubes"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2019-05-AMT-paper
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2019-5
 venue: 'Advanced Materials Technologies.'
