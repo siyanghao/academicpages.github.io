@@ -11,4 +11,3 @@ citation: 'X. Li, Y. Yang, B. Xie, M. Chu, H. Sun, S. Hao, Y. Chen, Y. Chen. 3D 
 
 [Download paper here](http://siyanghao.github.io/files/2018_AMT.pdf)
 
-# Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
