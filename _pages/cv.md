@@ -13,11 +13,11 @@ Education
 ======
 * B.S.in Aerospace Engineering, Beijing University of Aeronuatics and Astronuatics, 2017 Beijing
 * M.S. in Aerospace and Mechanical Engineering, Universuty of Southern California, 2019
-* Ph.D in Aerospace and Mechanical Engineering, University of Southern California, 2023 (expected)
+* Ph.D in Fluid Robotics, Browm University, 2024-25 (expected)
 
-Work experience
+Experience
 ======
-* Spring 2020: Research Associate
+* 2020: Research Associate
   * Fluid Dynamics Lab, Brown University
   * Duties included: 
     * Active Load-Control Turbine Blade with Aquanis, Inc.
@@ -65,13 +65,13 @@ Skills
 Publications
 ======
 * X. Li, Y. Yang, B. Xie, M. Chu, H. Sun, S. Hao, Y. Chen, Y. Chen. 3D Printing of Flexible Liquid Sensor based on Swelling Kinetics of Hydrogel with Carbon Nanotubes [J]. Advanced Materials Technologies. 2019, 5, 1800476
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  <files/2018_AMT.pdf>{% for post in site.publications %}
+  
 *	S. Hao, F. Yang, P Tang, Y. Feng, H. Li. Omnidirectional Gimbaled Mechanism based on Ring Gear [P]. CN107117288A. 9.2018 
 *	S. Hao, F. Yang, X. Jiang. Distributed Vectored Propulsion Mechanism [P]. CN205034337U. 7.2016   
 *	S. Hao, F. Yang, X. Jiang, T. Li. Distributed Vectored Propulsion System[P]. CN105151292B. 2.2016   
- 
+   {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 Talks
 ======
   <ul>{% for post in site.talks %}
