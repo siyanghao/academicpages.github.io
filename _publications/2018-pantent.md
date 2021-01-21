@@ -1,5 +1,5 @@
 ---
-title: "Omnidirectional Gimbaled Mechanism based on Ring Gear
+title: "Omnidirectional Gimbaled Mechanism based on Ring Gear"
 collection: publications
 permalink: /publication/2018-pantent
 excerpt: ''
