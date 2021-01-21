@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Currently, Siyang Hao is working as a <strong>Research Associate</strong> at  <strong>Brown University</strong>. 
-Siyang received his Master's degree from the <strong> University of Southern California(USC) </strong>in Aerospace and Mechanical Engineering in 2019. Before joining USC, Siyang attended the Beijing University of Aeronautics and Astronautics(<strong>BUAA</strong>), where he earned B.A. and M.Eng. degrees in Aerospace Engineering in 2017.
+Currently, Siyang Hao is working as a Ph.D student and Research Associate at  <strong>Brown University</strong>. 
+Siyang received his Master's degree from the <strong> University of Southern California(USC) </strong>in Aerospace and Mechanical Engineering in 2019. Before joining USC, Siyang attended the Beijing University of Aeronautics and Astronautics(<strong>BUAA</strong>), where he earned B.A. degrees in Aerospace Engineering in 2017.
+
+Resently, Siyang is working on Brid Flight project, which aims at study the aerodynamics in flapping flight.
 
 Research Summery 
 ======
