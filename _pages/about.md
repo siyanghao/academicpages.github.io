@@ -15,7 +15,7 @@ Resently, Siyang is working on Brid Flight project, which aims at study the aero
 
 Research Summery 
 ======
-His research interests are in <strong>fluid mechanics</strong> covering 
+His research interests are in <strong>fluid mechanics & robotics</strong> covering 
 
   * fluid experiments, 
   * turbulence and fulid-structure interaction 
