@@ -64,12 +64,9 @@ Skills
 
 Publications
 ======
-* X. Li, Y. Yang, B. Xie, M. Chu, H. Sun, S. Hao, Y. Chen, Y. Chen. 3D Printing of Flexible Liquid Sensor based on Swelling Kinetics of Hydrogel with Carbon Nanotubes [J]. Advanced Materials Technologies. 2019, 5, 1800476
-  <files/2018_AMT.pdf>{% for post in site.publications %}
+{% for post in site.publications %}
   
-*	S. Hao, F. Yang, P Tang, Y. Feng, H. Li. Omnidirectional Gimbaled Mechanism based on Ring Gear [P]. CN107117288A. 9.2018 
-*	S. Hao, F. Yang, X. Jiang. Distributed Vectored Propulsion Mechanism [P]. CN205034337U. 7.2016   
-*	S. Hao, F. Yang, X. Jiang, T. Li. Distributed Vectored Propulsion System[P]. CN105151292B. 2.2016   
+ 
    {% include archive-single-cv.html %}
   {% endfor %}</ul>
 Talks
@@ -84,6 +81,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
