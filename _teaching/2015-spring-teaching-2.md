@@ -1,20 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: "AME 341 Mechoptronics"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+venue: "University of Southern California, Department of Aerospace and Mechanical Engineering"
 date: 2015-01-01
-location: "City, Country"
+location: "Los Angeles, U.S."
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
