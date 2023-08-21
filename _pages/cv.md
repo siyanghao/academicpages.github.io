@@ -21,6 +21,7 @@ Experience
   * Fluid Dynamics Lab, Brown University
   * Duties included: 
     * Active Load-Control Turbine Blade with Aquanis, Inc.
+    * Turbulent- interactive flight
   * Supervisor: Professor Kenny Breuer
 
 * 2018-2019: Research Works
