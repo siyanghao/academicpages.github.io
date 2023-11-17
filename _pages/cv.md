@@ -13,18 +13,20 @@ Education
 ======
 * B.S.in Aerospace Engineering, Beijing University of Aeronuatics and Astronuatics, 2017 Beijing
 * M.S. in Aerospace and Mechanical Engineering, Universuty of Southern California, 2019
-* Ph.D in Fluid Robotics, Browm University, 2024-25 (expected)
+* Ph.D in Aerodynamics, Browm University, 2024-25 (expected)
+  
+  Thesis: Surfing on Vortices: Interaction of Flapping Flight in Vortex Wake
 
 Experience
 ======
-* 2020: Research Associate
+* 2020-present: Research Associate
   * Fluid Dynamics Lab, Brown University
   * Duties included: 
     * Active Load-Control Turbine Blade with Aquanis, Inc.
     * Turbulent- interactive flight & aerodynamics
   * Supervisor: Professor Kenny Breuer
 
-* 2018-2019: Research Works
+* 2018-2019: Research Assistant
   * Fluid-Structure Interactions Lab, USC
   * Duties included:
     * Development of Independent-Driven Compliant Wing Ornithopter
@@ -56,12 +58,13 @@ Experience
  
 Skills
 ======
-* Advanced experiment/test
+* Wind tunnel experiment/ Aerodynamic measurement/ Field test
 * Mechatronic design
   * Robotic systems design
-  * UAV and flight control
-  * Measurment system
-* Advanced Manufacturing
+  * Measurment system design
+  * PCB design
+* UAV design and flight control
+* Laser optical system design
 
 Publications
 ======
