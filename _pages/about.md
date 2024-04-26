@@ -7,11 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<strong>Siyang Hao</strong> is currently a Ph.D. candidate at <strong>Brown University</strong>, where he is working on his thesis titled "Surfing on Vortices: Interaction of Flapping Flight in Vortex Wake" under the guidance of Prof. Kenny Breuer. His research focuses on the aerodynamics and wake interactions of flapping flight.
 
-Currently, Siyang Hao is working as a Ph.D. candidate and Research Associate at  <strong>Brown University</strong>. 
-Siyang received his Master's degree from the <strong> University of Southern California(USC) </strong>in Aerospace and Mechanical Engineering in 2019. Before joining USC, he attended the Beijing University of Aeronautics and Astronautics(<strong>BUAA</strong>), where he earned B.A. degrees in Aerospace Engineering in 2017.
+Siyang earned his Master's degree in Aerospace and Mechanical Engineering from the University of Southern California (USC) in 2019. Prior to his studies at USC, he completed his Bachelor of Engineering in Aerospace Engineering at the Beijing University of Aeronautics and Astronautics (BUAA) in 2017.
 
-Recently, Siyang is working on his Thesis: "Surfing on Vortices: Interaction of Flapping Flight in Vortex Wake" with Professor Kenny Breuer, which aims to study the aerodynamics an wake interactions in flapping flight.
 
 Research Summery 
 ======
